@@ -12,6 +12,7 @@ public class First
      void welcome()
      {
           System.out.println("hello");
+          System.out.println("hello2");
      }
 
     public static void main(String[] args)
